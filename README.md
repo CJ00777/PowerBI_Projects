@@ -1,5 +1,6 @@
 # PowerBI_Projects
-1. Sales Dashboard
+1. **Sales Dashboard**
+
 ![Sales Dashboard](https://github.com/CJ00777/PowerBI_Projects/assets/130445916/7810525d-18ea-49b5-b799-4049b90914c4)
 
 This dashboard provides a detailed overview of the total sales achieved by sales representatives, segmented by regions.
