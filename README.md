@@ -11,8 +11,8 @@ This dashboard provides a detailed overview of the total sales achieved by sales
 
 2. **Regional Sales Segmentation:** To gain a deeper understanding of the sales distribution, the dashboard smartly segregates sales data by regions. This enables users to identify sales trends and patterns specific to each area, which can be crucial for strategic decision-making.
 
-3.**Line Chart for Sales Trends:** The inclusion of a line chart visually represents the sales trends over time, allowing users to observe the overall sales trajectory. This helps in identifying seasonal variations, growth, or decline patterns, and assists in forecasting future sales performance.
+3. **Line Chart for Sales Trends:** The inclusion of a line chart visually represents the sales trends over time, allowing users to observe the overall sales trajectory. This helps in identifying seasonal variations, growth, or decline patterns, and assists in forecasting future sales performance.
 
-4.**Data Table for Detailed Analysis** : To offer granular insights, the dashboard includes a data table that displays detailed information about sales, such as sales dates, product details, and sales representative names. Users can sort and filter this table to focus on specific data points of interest.
+4. **Data Table for Detailed Analysis** : To offer granular insights, the dashboard includes a data table that displays detailed information about sales, such as sales dates, product details, and sales representative names. Users can sort and filter this table to focus on specific data points of interest.
 
 5. **Interactive Slicers and Buttons**: To enhance user interactivity, the dashboard features slicers that allow users to filter data by specific criteria, such as sales regions or time periods. Additionally, buttons provide seamless navigation between different views or sections of the dashboard.
