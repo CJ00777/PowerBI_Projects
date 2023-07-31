@@ -17,6 +17,8 @@ iv. **Data Table for Detailed Analysis** : To offer granular insights, the dashb
 
 v. **Interactive Slicers and Buttons**: To enhance user interactivity, the dashboard features slicers that allow users to filter data by specific criteria, such as sales regions or time periods. Additionally, buttons provide seamless navigation between different views or sections of the dashboard.
 
+
+
 2. **Unemployment Analysis Report**
 
 ![Unemployment Analysis Report- Stacked Area Chart](https://github.com/CJ00777/PowerBI_Projects/assets/130445916/f15551dc-4f33-422b-9062-c3c82ef4e9a6)
