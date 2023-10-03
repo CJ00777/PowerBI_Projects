@@ -21,6 +21,14 @@ v. **Interactive Slicers and Buttons**: To enhance user interactivity, the dashb
 ![Unemployment Analysis Report- Stacked Area Chart](https://github.com/CJ00777/PowerBI_Projects/assets/130445916/f15551dc-4f33-422b-9062-c3c82ef4e9a6)
 This comprehensive report delves into the analysis of unemployment trends across various age groups. By utilizing a combination of Stacked Area Chart and detailed table, aims to provide a comprehensive and insightful view of the unemployment situation.
 
+3. **Banking Data Analysis**
+[Banking data.pdf](https://github.com/CJ00777/PowerBI_Projects/files/12793314/Banking.data.pdf)
+
+This report explores client demographics, year/month-wise bank performance, common account types with usage patterns, and profitability variations. It also evaluates credit card popularity and overall profitability. 
+
+To enhance clarity, various data visualization techniques, including line charts, pie charts, donut charts, ribbon charts, clustered bar charts, slicers, and cards, were utilized.
+
+
 
 
 
