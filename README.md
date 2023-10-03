@@ -22,7 +22,10 @@ v. **Interactive Slicers and Buttons**: To enhance user interactivity, the dashb
 This comprehensive report delves into the analysis of unemployment trends across various age groups. By utilizing a combination of Stacked Area Chart and detailed table, aims to provide a comprehensive and insightful view of the unemployment situation.
 
 3. **Banking Data Analysis**
-[Banking data.pdf](https://github.com/CJ00777/PowerBI_Projects/files/12793314/Banking.data.pdf)
+
+![Banking data-1](https://github.com/CJ00777/PowerBI_Projects/assets/130445916/4b1ffbf3-8d7b-4e01-9bbb-20a6215af9ef)
+![Banking data-2](https://github.com/CJ00777/PowerBI_Projects/assets/130445916/d89d47cd-2586-45d3-9d30-5d71d91c312a)
+![Banking data-3](https://github.com/CJ00777/PowerBI_Projects/assets/130445916/0c823864-0b49-4751-9571-bf251820472e)
 
 This report explores client demographics, year/month-wise bank performance, common account types with usage patterns, and profitability variations. It also evaluates credit card popularity and overall profitability. 
 
